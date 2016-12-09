@@ -1,0 +1,3 @@
+[submodule "projects/octocompare.react.java.spring"]
+	path = projects/octocompare.react.java.spring
+	url = https://github.com/atorok/octocompare.react.java.spring.git
